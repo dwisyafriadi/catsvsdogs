@@ -1,6 +1,6 @@
-# Duckchain Bot 
+# Cats Vs Dogs Bot 
 
-Auto Clear ✅  
+Auto Clear Task ✅  
 Auto Playing Game ✅
 
 ## Join Game
