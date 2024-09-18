@@ -1,8 +1,13 @@
-# Birds Bot (or Birds Bot)
+# Duckchain Bot 
 
-A brief description of yourself or your project. 
+Auto Clear ✅  
+Auto Playing Game ✅
 
-## Connect with Me
+## Join Game
+
+[Playing Games](https://t.me/catsdogs_game_bot/join?startapp=1580490871)
+
+## Join the telegram channel for another bot
 
 [Join my Telegram channel](https://t.me/dasarpemulung)
 
